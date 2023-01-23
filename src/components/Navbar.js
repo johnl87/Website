@@ -18,7 +18,7 @@ export default function Navbar() {
             Skills
           </a>
           <a href="#education" className="mr-8 hover:text-white">
-            Education
+            Educations
           </a>
 
         </nav>
