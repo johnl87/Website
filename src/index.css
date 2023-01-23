@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*allows for the links within the page to smoothly scroll down or up*/
+@layer base {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
