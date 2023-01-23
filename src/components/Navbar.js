@@ -25,7 +25,7 @@ export default function Navbar() {
         <a href="https://www.linkedin.com/in/john-le-574701175/" target="_blank" rel="noopener noreferrer" className="mr-8 hover:text-white">
             Linkedin
           </a>
-          <a href="" target="_blank" className="mr-8 hover:text-white">
+          <a href="https://docs.google.com/document/d/1vmundwd3pah72NFUpfU0rUHL_vTsbYV_/edit?usp=sharing&ouid=116804147839522468398&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" className="mr-8 hover:text-white">
             Resume
           </a>
         <a
