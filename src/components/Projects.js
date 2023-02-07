@@ -43,7 +43,14 @@ export default function Projects() {
             </a>
           ))}
         </div>
+        <h1 className="sm:text-4xl text-3xl font-medium title-font mt-8 mb-4 text-white">
+            See more Projects here:
+          </h1>
+          <a href="https://github.com/johnl87" target="_blank" rel="noopener noreferrer" className="mr-8 hover:text-white">
+            GitHub
+          </a>
       </div>
+      
     </section>
   );
 }
