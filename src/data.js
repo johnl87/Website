@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A chatbot that uses tensorflow and keras to understand user input and generate a response",
     image: "./project1.gif",
-    //link: "",
+    link: "https://github.com/johnl87/chat-banking-bot",
   },
   {
     title: "Artifical Intelligence Image Generator by OpenAI",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "using javscript, html, css, react, and node.js to create an API that uses OpenAI image generator",
     image: "./project2.gif",
-    //link: "https://github.com",
+    link: "https://github.com/johnl87/AI-image-generator",
   },
   {
     title: "Java calculator",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "using javaFX to create a simple calulator that will add or subtract two user provided operands",
     image: "./project3.gif",
-    //link: "https://reactbootcamp.com",
+    link: "https://github.com/johnl87/JavaFX-Calculator",
   },
   {
     title: "QR Code",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "QR code that can be generated in various dimensions which can also be saved as a image",
     image: "./project4.gif",
-    //link: "https://reactbootcamp.com",
+    link: "https://github.com/johnl87/qr-code-generator",
   },
 ];
 
