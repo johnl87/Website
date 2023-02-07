@@ -68,5 +68,9 @@ export const skills = [
   "Tableau",
   "Minitab",
   "Github",
-  "Postman"
+  "Postman",
+  "Assembly Language",
+  "Eclipse IDE",
+  "Visual Studio/Visual Studio Code",
+  "Google Colaboratory"
 ];
