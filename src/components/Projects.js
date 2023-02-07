@@ -46,9 +46,11 @@ export default function Projects() {
         <h1 className="sm:text-4xl text-3xl font-medium title-font mt-8 mb-4 text-white">
             See more Projects here:
           </h1>
-          <a href="https://github.com/johnl87" target="_blank" rel="noopener noreferrer" className="mr-8 hover:text-white">
-            GitHub
+          <div className="w-150">
+          <a href="https://github.com/johnl87" target="_blank" rel="noopener noreferrer" className="flex grid place-items-center mr-8 hover:text-white">
+            <img src="./Github_Icon.png" alt="Github"/>
           </a>
+          </div>
       </div>
       
     </section>
